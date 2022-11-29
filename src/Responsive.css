@@ -1,0 +1,584 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+@media screen and (max-width: 768px) {
+  /* //bar */
+  .rated-details::after {
+    display: none;
+  }
+  .mobile-toggle {
+    display: inline-block !important;
+    color: white;
+    font-size: 24px;
+  }
+  .navbar .all {
+    display: none;
+  }
+  header {
+    max-width: 768px;
+  }
+  /* //ul */
+  .mobile-menu ul {
+    display: block;
+  }
+  .mobile-menu-open {
+    display: block;
+  }
+  .mobile-menu {
+    background-color: #221d1c;
+    padding: 70px 0 0 0;
+    text-align: center;
+    width: 250px;
+    position: absolute;
+    height: 1017px;
+    top: 0;
+    right: 0;
+    z-index: 1010;
+    /* height: 849px; */
+  }
+  /* //close */
+  #finish {
+    background-color: transparent;
+    font-size: 34px;
+    color: gray !important;
+  }
+  .mobile-menu li a {
+    color: #ffffff80;
+    font-size: 22px;
+  }
+  #hero-text {
+    text-align: center;
+  }
+  .swip {
+    display: none;
+  }
+  .sectors {
+    display: flex;
+    flex-direction: column;
+  }
+  .sector {
+    margin: 15px 0;
+  }
+  .swiper-slide .sambal {
+    width: 100px;
+  }
+  .organic {
+    text-align: center;
+  }
+  .rateblogs {
+    /* width: 710px; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .one {
+    width: 48%;
+  }
+  .topdiv {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .bottomtwo {
+    height: 300px;
+  }
+  .bottomtwo:first-of-type {
+    display: none;
+  }
+  .input {
+    width: 150px;
+  }
+  .sambal {
+    width: 40%;
+  }
+  .credits {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: flex-start; */
+  }
+  .details-image {
+    width: 300px;
+  }
+  .details-flexing-images {
+    width: 300px;
+  }
+  .credit:not(:nth-last-of-type(1)) {
+    border: none;
+  }
+  .description-headings {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .description-heading {
+    width: 100%;
+  }
+  .description-heading h1 {
+    width: 33%;
+  }
+  .cash-image {
+    width: 80px;
+  }
+  .content-side-image {
+    width: 200px;
+    height: 200px;
+  }
+  .us-right-text {
+    display: flex;
+  }
+  .calendar {
+    display: none;
+  }
+  .blogcontent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .rateblog {
+    width: 400px;
+    height: 600px;
+  }
+  .rateblog-img {
+    width: 400px;
+    height: 200px;
+  }
+  .rateblog-img img {
+    width: 100%;
+    height: 100%;
+  }
+  .recent-details::before {
+    display: none;
+  }
+  .contact {
+    display: flex;
+    justify-content: space-between;
+  }
+  .contact-map {
+    width: 45%;
+  }
+
+  .contact-map iframe {
+    width: 100%;
+    height: 600px;
+  }
+  .contact-text {
+    width: 40%;
+    height: 600px;
+  }
+  .small-text {
+    display: flex;
+    flex-direction: column;
+  }
+  .line form input {
+    width: 150px;
+  }
+  .textareas {
+    width: 768px;
+  }
+  .textareas textarea {
+    width: 80%;
+  }
+  .increase-right-nav {
+    width: 47%;
+  }
+  .increasediv-btns {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .increasediv-btn {
+    width: 70px;
+    display: flex;
+    margin-right: 25px;
+  }
+  .increasediv-text {
+    display: none;
+  }
+  .increasediv-details img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .paginations div {
+    display: flex;
+    /* width: 160px; */
+    margin-right: 10px;
+  }
+  .contact-text {
+    width: 300px;
+    text-align: center;
+  }
+  .login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .login-img {
+    display: none;
+  }
+  .user{
+    display: flex;
+    justify-content: center;
+  }
+  .login-form{
+    margin: 80px 0;
+  }
+.login-form form{
+    height: 300px;
+    width: 500px;
+   
+}
+}
+
+@media screen and (max-width: 425px) {
+  #hero-text {
+    font-size: 18px;
+  }
+  header {
+    max-width: 425px;
+  }
+  .sector a {
+    width: 22%;
+  }
+  /* .sambal{
+    width: 20%;
+   } */
+  .single-basket .sambal-content {
+    border: 1px solid red;
+    width: 400px;
+  }
+  .sambal-content h2 {
+    font-size: 18px !important;
+  }
+  .sambal-content {
+    display: flex;
+    flex-direction: column;
+  }
+  .heading h1 {
+    font-size: 28px;
+  }
+  .organic-image img {
+    width: 120px;
+    height: 120px;
+  }
+  .organic-text h1 {
+    font-size: 38px;
+  }
+  .organic-button button {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .navshops {
+    display: flex;
+    flex-direction: column;
+  }
+  .navshop {
+    width: 100%;
+  }
+  .navshop-details {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    /* top:50%;
+ left: 50%;
+ transform: translate(-50%,-50%); */
+  }
+  .rateblog {
+    margin-bottom: 10px;
+    width: 400px;
+    height: 666px;
+  }
+  .heading {
+    padding: 70px 0;
+  }
+  .topdiv {
+    height: 180px;
+  }
+  .input {
+    width: 80px;
+  }
+  .sambals {
+    display: flex;
+    /* flex-direction: column; */
+  }
+  .sambal {
+    width: 10%;
+  }
+  .rateblogs {
+    max-width: 425px;
+  }
+  .rateblog {
+    width: 100%;
+  }
+  .rateblog {
+    width: 300px;
+    height: 600px;
+  }
+  .rateblog-img {
+    width: 300px;
+    height: 200px;
+  }
+  .rateblog-img img {
+    width: 100%;
+    height: 100%;
+  }
+  .rated-details {
+    max-width: 300px;
+  }
+  .styles_faq-row-wrapper__3vA1D
+    .styles_row-body__1NvUo
+    .styles_faq-row__2YF3c
+    .styles_row-title__1YiiY
+    .styles_row-title-text__1MuhU {
+    padding: 0 !important;
+  }
+  .styles_faq-row-wrapper__3vA1D
+    .styles_row-body__1NvUo
+    .styles_faq-row__2YF3c
+    .styles_row-title__1YiiY
+    .styles_icon-wrapper__2cftw {
+    position: absolute;
+    top: 20px !important;
+    right: 0 !important;
+  }
+  .total {
+    display: flex;
+    flex-direction: column;
+  }
+  .total-right {
+    width: 100%;
+  }
+  .rightsearch {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .searching {
+    width: 100%;
+  }
+  .input {
+    width: 100%;
+  }
+  .select_heading {
+    text-align: center;
+  }
+  .paginations {
+    display: flex;
+  }
+  .sambals {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .sambal {
+    width: 48%;
+  }
+  .bottom-paginations {
+    margin: 15px 0;
+  }
+  .increase-nav {
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .increase-right-nav li:nth-of-type(1) {
+    display: none;
+  }
+  .increasediv {
+    width: 350px;
+  }
+  .increasediv-text,
+  .increasediv-price {
+    display: none;
+  }
+  .increasediv-btns {
+    width: 40%;
+  }
+  .increasediv-btn {
+    display: flex;
+    margin-right: 25px;
+  }
+  .k {
+    text-align: center;
+  }
+  .details-images {
+    width: 100%;
+  }
+  .details-image {
+    border: 2px solid ghostwhite;
+    width: 100%;
+    height: 400px;
+  }
+  .details-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .details-little-image {
+    display: none;
+  }
+  .details-littletwo-image {
+    display: none;
+  }
+  .details-text h3 {
+    font-size: 24px;
+  }
+  .starts {
+    display: none;
+  }
+  .alldetails {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .details {
+    width: 100%;
+  }
+  .details-text {
+    text-align: center;
+  }
+  .credits {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .credit {
+    width: 180px;
+  }
+  .cashs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+  }
+  .cash-image {
+    width: 33%;
+    margin: 10px;
+  }
+  .add-comment {
+    margin-bottom: 100px;
+  }
+  .blogdetail {
+    display: flex;
+    flex-direction: column;
+  }
+  .blogsearch {
+    width: 100%;
+  }
+  .recent {
+    text-align: center;
+    margin: 20px 0;
+  }
+  .tags {
+    display: none;
+  }
+  .paginations {
+    display: flex;
+    flex-direction: column;
+
+    height: 100px;
+  }
+  .rateblog:last-of-type {
+    margin-bottom: 30px;
+  }
+  .share-icon {
+    width: 60px;
+    height: 60px;
+  }
+  .share-icons {
+    margin-bottom: 100px;
+  }
+  .content-side-image {
+    width: 130px;
+    height: 130px;
+  }
+  .contact {
+    display: flex;
+    flex-direction: column;
+  }
+  .contact-map,
+  .contact-text {
+    width: 100%;
+  }
+  .contact-map iframe {
+    height: 400px;
+  }
+  .small-text {
+    text-align: center;
+  }
+  .line-inputs {
+    display: flex;
+    flex-direction: column;
+  }
+  .line-inputs input{
+    margin: 10px 0;
+  }
+  .line form input {
+    width: 340px;
+  }
+  .textareas {
+    max-width: 425px;
+  }
+  .contact-button {
+    margin-bottom: 100px;
+  }
+  .us {
+    display: none;
+  }
+  .artists {
+    text-align: center;
+  }
+  .artisttext h1 {
+    font-size: 20px;
+  }
+  .artist h1 {
+    display: none;
+  }
+  .about-flowers {
+    max-width: 425px;
+    margin: 10px 0;
+  }
+  .clients {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0;
+  }
+  .client {
+    width: 100%;
+    height: 100px;
+    margin: 10px 0;
+  }
+  .client i {
+    display: none;
+  }
+  .teams {
+    display: flex;
+    flex-direction: column;
+    margin: 50px 0;
+  }
+  .team p {
+    display: none;
+  }
+  .topdiv {
+    bottom: -110px;
+  }
+  .favs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .login-form {
+    width: 500px;
+    height: 700px;
+    margin: 100px 0;
+  }
+  .login-form form{
+    width: 422px;
+  };
+}

@@ -1,0 +1,412 @@
+{
+  "products": [
+    {
+      "name": "Bioderma Atoderm",
+      "image": "https://www.bioderma.us/sites/us/files/styles/large/public/products/%7B37285%7D_%7B%7D_%7B28103S%7D.png?itok=tH0qJ6hS",
+      "id": 1,
+      "price": 47.39,
+      "category": 1,
+      "subcategory": 1,
+      "variant": 1,
+      "description": "Çox quru dərini ani rahatlıq ilə təmin edən ultra qidalandırıcı, nəmləndirici bədən balzamı.",
+      "rating": 7,
+      "status": "old"
+    },
+    {
+      "name": "CeraVe Üz Təmizləyicisi",
+      "image": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products-v3/hydrating-facial-cleanser/700x875/cerave_daily_hydrating-cleanser_12oz_front-700x875-v2.jpg?rev=95eb5a5216954b49ba37ab96f98f826d?w=500&hash=2DA159CDD62DF14AC8FB75FDF0D8090D",
+      "id": 2,
+      "price": 27.04,
+      "subcategory": 3,
+      "category": 1,
+      "variant": 1,
+      "description": "Qliserin tərkibli zərif təmizləyici losyon dərini nəmdən məhrum etmədən nəmləndirməyə kömək edir. ",
+      "rating": 7,
+      "status": "old"
+    },
+    {
+      "name": "Flormar Layner",
+      "image": "https://img1-flormar.mncdn.com/mnresize/360/450/UPLOAD/PRODUCTS/47000001-101_1.jpg",
+      "id": 17,
+      "price": 60,
+      "subcategory": 6,
+      "category": 2,
+      "variant": 4,
+      "description": "Suya dayanıqlı layner",
+      "rating": 9,
+      "status": "old"
+    },
+    {
+      "name": "Revolution",
+      "image": "https://cdn.webshopapp.com/shops/125574/files/56374934/560x500x2/makeup-revolution-makeup-revolution-ultra-blush-pa.jpg",
+      "id": 3,
+      "price": 28.76,
+      "subcategory": 6,
+      "category": 2,
+      "description": "11 gözəl tutqun və 7 piqmentli parıltı ilə bir sıra çəhrayı və mavi tonlara və rəngarəng parıltı tonlarına sahib olacaqsınız",
+      "rating": 7,
+      "status": "old",
+      "variant": 1
+    },
+    {
+      "name": "Tresan",
+      "image": "https://www.dermoeczanem.com/tresan-isirgan-otu-guclendirici-bakim-sampuani-300-ml-tresan-148388-55-B.jpg",
+      "id": 4,
+      "price": 15,
+      "subcategory": 8,
+      "category": 3,
+      "variant": 1,
+      "description": "Saçları qidalandırır və gücləndirir və saçların həcm qazanmasına kömək edir.",
+      "rating": 7,
+      "status": "old"
+    },
+    {
+      "name": "Mac bronzer",
+      "image": "https://images.asos-media.com/products/mac-bronzing-powder-matte-bronze/20276151-1-mattebronze?$n_640w$&wid=513&fit=constrain",
+      "id": 5,
+      "price": 52,
+      "subcategory": 4,
+      "category": 2,
+      "variant": 1,
+      "description": "Dəriyə şəffaf, təbii rəng effektləri və vurğular verən incə rəngli toz.Bütün dəri tiplərinə hamar, bərabər tətbiq etmək üçün hazırlanmışdır.",
+      "rating": 5,
+      "status": "old"
+    },
+    {
+      "name": "Lador şampun 530 ml",
+      "image": "https://bearel.com/wp-content/uploads/2021/03/TripleX3-Natural-Shampoo-300x387.jpg",
+      "id": 6,
+      "price": 35,
+      "subcategory": 8,
+      "category": 3,
+      "variant": 1,
+      "description": " Baş dərisini təmizləyir və buğda, qarğıdalı və soya proteini ilə ipləri bərpa edir.",
+      "rating": 7,
+      "status": "old"
+    },
+    {
+      "name": "Neutrogena gel",
+      "image": "https://ntg-catalog.imgix.net/products/6811047XX/alt_1.jpg?w=1200&h=1443&sfrm=jpg&fit=crop",
+      "id": 7,
+      "price": 40,
+      "subcategory": 3,
+      "category": 1,
+      "variant": 1,
+      "description": "Yağsız formul nəinki təmiz dəri üçün məsamələri dərindən zərifcə təmizləyir, həm də sızanaqlardan xilas olmaq və gələcək sızanaqların qarşısını almaq üçün salisilik turşu ehtiva edir. ",
+      "rating": 7,
+      "status": "old"
+    },
+    {
+      "name": "Kiko dodaq boyası",
+      "image": "https://nesipetsin.com:8443/images/cache/product/2022/05/13/13/83cf2b99-a511-4c11-9620-44d021e574e1-webListing-default-280x280.jpg",
+      "id": 8,
+      "price": 22,
+      "subcategory": 5,
+      "category": 2,
+      "variant": 2,
+      "description": "Uzun müddət qalıcı iki addımlı maye pomada",
+      "rating": 7,
+      "status": "old"
+    },
+    {
+      "name": "Essence tuş",
+      "image": "https://cdn.shopify.com/s/files/1/1115/2926/products/Lash_Prince_False_Lash_Mascara_Open_300x.png?v=1569287284",
+      "id": 9,
+      "price": 10,
+      "subcategory": 6,
+      "category": 2,
+      "variant": 2,
+      "description": "Lash Mascara cəsarətli görünüş əldə edərkən kirpikləri müəyyənləşdirir və ayırır.",
+      "rating": 7,
+      "status": "old"
+    },
+    {
+      "name": "Clinique üz təmizləyicisi",
+      "image": "https://www.clinique.com/media/export/cms/products/600x750/cl_sku_6KNA01_600x750_0.png",
+      "id": 10,
+      "price": 30,
+      "subcategory": 1,
+      "category": 2,
+      "variant": 1,
+      "description": "Dərini yumşaldan, hamarlaşdıran və yaxşılaşdıran dermatoloq tərəfindən hazırlanmış yağsız üz nəmləndiricisidir. ",
+      "rating": 9,
+      "status": "old"
+    },
+    {
+      "name": "The Ordinary AHA+BHA",
+      "image": "https://strgimgr.umico.az/sized/280/204815-e5b48e2f50079d809649be8840a60349.jpg",
+      "id": 11,
+      "price": 27,
+      "subcategory": 3,
+      "category": 1,
+      "variant": 1,
+      "description": "Alfa və beta-hidroksi turşuları ilə aşındırıcı üz kremidir.",
+      "rating": 7,
+      "status": "old"
+    },
+    {
+      "name": "Benefit BADgal",
+      "image": "https://media.static-allbeauty.com/image/extra/1/1600/1191628.jpg",
+      "id": 12,
+      "price": 23,
+      "subcategory": 6,
+      "category": 2,
+      "variant": 1,
+      "description": "Həcmləndirici tuş kirpikləri ağırlaşdırmadan həcm yaradır.",
+      "rating": 10,
+      "status": "old"
+    },
+    {
+      "name": "The NewLab",
+      "image": "https://cdn.hipicon.com/images/bd/products/2022/04/12/the-newlab--niacinamide-10-zinc---164977466649910.jpg",
+      "id": 13,
+      "price": 18,
+      "subcategory": 3,
+      "category": 1,
+      "variant": 1,
+      "description": "Dərini ətraf mühitin zərərindən qoruyur və dərinin kollagen və hialuron turşusu istehsal etməsinə kömək edir.",
+      "rating": 8,
+      "status": "new"
+    },
+    {
+      "name": " Maye dodaq boyası",
+      "image": "https://m.media-amazon.com/images/I/514ROJ7h+BL._SY450_.jpg",
+      "id": 14,
+      "price": 47,
+      "subcategory": 5,
+      "category": 2,
+      "variant": 2,
+      "description": "Uzunmüddətli piqmentli rəng təmin edir",
+      "rating": 8,
+      "status": "old"
+    },
+    {
+      "name": "Elidor 250ml",
+      "image": "https://bakkal-online.com/media/image/product/275/md/elidor-repair-shampoo-500-ml.jpg",
+      "id": 15,
+      "price": 5,
+      "subcategory": 8,
+      "category": 3,
+      "variant": 21,
+      "description": "Antioksidantlarla zəngindir və rəngli, rənglənmiş və ya işıqlandırılmış saçlar üçün qoruyucu təsiri ilə tanınır. ",
+      "rating": 7,
+      "status": "old"
+    },
+    {
+      "name": " LAROCHE-POSAY Tolerane Üz Nəmləndiricisi",
+      "image": "https://m.media-amazon.com/images/I/61RqIkt2l1L.jpg",
+      "id": 16,
+      "price": 55,
+      "subcategory": 2,
+      "category": 1,
+      "variant": 3,
+      "description": "Kliniki olaraq quru, kobud dərini azaltmaq üçün göstərilir.  ",
+      "rating": 5,
+      "status": "old"
+    },
+    {
+      "name": " uz temizleyici firca",
+      "image": "https://img1-flormar.mncdn.com/mnresize/360/450/UPLOAD/PRODUCTS/49000075-024_1.jpg",
+      "id": 18,
+      "price": 15,
+      "subcategory": 11,
+      "category": 4,
+      "variant": 17,
+      "description": "uzu temizleyir ",
+      "rating": 5,
+      "status": "old"
+    }
+  ],
+  "categories": [
+    {
+      "name": "skin-care",
+      "id": 1,
+      "subcategories": [1, 2, 3]
+    },
+    {
+      "name": "make-up",
+      "id": 2,
+      "subcategories": [4, 5, 6]
+    },
+    {
+      "name": "hair-care",
+      "id": 3,
+      "subcategories": [7, 8, 9]
+    },
+    {
+      "name": "tools",
+      "id": 4,
+      "subcategories": [10, 11]
+    },
+    {
+      "name": "sets",
+      "id": 5,
+      "subcategories": [12, 13]
+    }
+  ],
+  "subcategories": [
+    {
+      "name": "normal",
+      "id": 1,
+      "variants": [1]
+    },
+    {
+      "name": "dry",
+      "id": 2,
+      "variants": [1]
+    },
+    {
+      "name": "sensitive",
+      "id": 3,
+      "variants": [1]
+    },
+    {
+      "name": "face",
+      "id": 4,
+      "variants": [1, 3, 4, 5, 6, 7]
+    },
+    {
+      "name": "lips",
+      "id": 5,
+      "variants": [8, 9, 10]
+    },
+    {
+      "name": "eyes",
+      "id": 6,
+      "variants": [11, 12, 13]
+    },
+    {
+      "name": "hair masks",
+      "id": 7,
+      "variants": [23, 24]
+    },
+    {
+      "name": "hair shampoos",
+      "id": 8,
+      "variants": [21, 22]
+    },
+    {
+      "name": "hair conditioners",
+      "id": 9,
+      "variants": [1]
+    },
+    {
+      "name": "brushes",
+      "id": 10,
+      "variants": [16, 17, 18, 19]
+    },
+    {
+      "name": "other tools",
+      "id": 11,
+      "variants": [20]
+    },
+    {
+      "name": "discount",
+      "id": 12,
+      "variants": [1]
+    },
+    {
+      "name": "withoutdiscount",
+      "id": 13,
+      "variants": [1]
+    }
+  ],
+  "variants": [
+    {
+      "id": 1,
+      "name": "bronzer"
+    },
+    {
+      "id": 2,
+      "name": "lipstick"
+    },
+    {
+      "id": 3,
+      "name": "bb crem"
+    },
+    {
+      "id": 4,
+      "name": "tonal crem"
+    },
+    {
+      "id": 5,
+      "name": "pudra"
+    },
+    {
+      "id": 6,
+      "name": "cc crem"
+    },
+    {
+      "id": 7,
+      "name": "highlighter"
+    },
+    {
+      "id": 8,
+      "name": "lipbalm"
+    },
+    {
+      "id": 9,
+      "name": "lippencil"
+    },
+    {
+      "id": 10,
+      "name": "lipgloss"
+    },
+    {
+      "id": 11,
+      "name": "eyeshadow"
+    },
+    {
+      "id": 12,
+      "name": "mascara"
+    },
+    {
+      "id": 13,
+      "name": "eyeliner"
+    },
+    {
+      "id": 14,
+      "name": "cleansers"
+    },
+    {
+      "id": 15,
+      "name": "moisturizer"
+    },
+    {
+      "id": 16,
+      "name": "bronzer brush"
+    },
+    {
+      "id": 17,
+      "name": "face brush"
+    },
+    {
+      "id": 18,
+      "name": "eye brush"
+    },
+    {
+      "id": 19,
+      "name": "powder brush"
+    },
+    {
+      "id": 20,
+      "name": "other tools"
+    },
+    {
+      "id": 21,
+      "name": "oily hair"
+    },
+    {
+      "id": 22,
+      "name": "dry hair"
+    },
+    {
+      "id": 23,
+      "name": "oily_mask"
+    },
+    {
+      "id": 24,
+      "name": "dry mask"
+    }
+  ]
+}
